@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 title: "PHP / Laravel & WordPress WooCommerce Automated ECU File-Service Portal Integration for /api/v1/cloud/jobs (v1.0.45)"
 version: "1.0.45"
-date-released: "2026-11-07"
+date-released: "2026-11-08"
 url: "https://www.davincideluxe.fr/api-pricing"
 repository-code: "https://github.com/DavinciDeluxe/davinci-woocommerce-portal-plugin"
 authors:
